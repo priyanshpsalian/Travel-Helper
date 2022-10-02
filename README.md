@@ -34,19 +34,19 @@
     <img src="download.jpg" alt="Logo" width="" height="">
   </a>
 
-  <h3 align="center">QR CODE GENERATOR</h3>
+  <h3 align="center">Travel Helper</h3>
 
   <p align="center">
-    An awesome Website to generate QR Code in seconds.
+    An awesome Website to help you while travelling.
     <br />
-    <a href="https://github.com/priyanshpsalian/QR-Code-Generator/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/priyanshpsalian/Travel-Helper/edit/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/priyanshpsalian/QR-Code-Generator/README.md">View Demo</a>
+    <a href="https://github.com/priyanshpsalian/Travel-Helper/edit/main/README.md">View Demo</a>
     ·
-    <a href="https://github.com/priyanshpsalian/QR-Code-Generator/README.md">Report Bug</a>
+    <a href="https://github.com/priyanshpsalian/Travel-Helper/edit/main/README.md">Report Bug</a>
     ·
-    <a href="https://github.com/priyanshpsalian/QR-Code-Generator/README.md">Request Feature</a>
+    <a href="https://github.com/priyanshpsalian/Travel-Helper/edit/main/README.md">Request Feature</a>
   </p>
 </div>
 
@@ -88,7 +88,7 @@
 <!-- (https://example.com) -->
 <!-- <img src="src/images/Capture.PNG" alt="Logo" width="" height=""> -->
 
-“Readme.me” is a website for travel bloggers and travelers, who have the same passion of traveling and enjoying to share their journeys and memorable experiences. Here you can pin point all about your travel experiences, interesting attractions, accommodation reviews, food reviews and more of untold stories.
+Travel Helper is a website for travel bloggers and travelers, who have the same passion of traveling and enjoying to share their journeys and memorable experiences. Here you can pin point all about your travel experiences, interesting attractions, accommodation reviews, food reviews and more of untold stories.
 
 <h2>Features</h2>
 
